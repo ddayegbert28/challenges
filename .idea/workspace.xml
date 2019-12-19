@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9e27c776-6a52-48a8-8675-0d4018aa3f19" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chellenge3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chellenge3/challenge3.py" beforeDir="false" afterPath="$PROJECT_DIR$/challenge3/challenge3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +24,9 @@
   </component>
   <component name="ProjectId" id="1TfeS8Ou6deE7yd0nHa9JBtuDnM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -68,6 +73,14 @@
       <option name="presentableId" value="Default" />
       <updated>1573855573691</updated>
     </task>
+    <task id="LOCAL-00001" summary="Challenge 3">
+      <created>1576273788646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576273788646</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Challenge 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Challenge 3" />
   </component>
 </project>
